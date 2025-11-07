@@ -34,7 +34,7 @@ If you see different output, you probably have to do a $ `git pull`
 
 ## Structure:
 
-```bash
+```text
 pclp-vscode
 ├── README.md <- this file you are reading
 ├── .clang-format <- the coding style that the pclp checker uses (Linux Kernel)
@@ -55,7 +55,7 @@ Feel free to change the config files and extensions as you like
 (you can skip the README.md)
 
 
-```bash
+```text
 pclp
 ├── README.md
 ├── .clang-format
