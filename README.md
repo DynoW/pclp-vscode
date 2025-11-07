@@ -16,6 +16,8 @@ Check out the config files above ^^^ and ask or search things you don't understa
 
 ## How to clone this repository to your computer:
 
+> You can also just copy and paste the code from your browser into the corresponding files instead of using `git clone`, if you prefer.
+
 If you haven't already, install git:
 ```bash
 dyno@ragnarok:~$ sudo apt update
