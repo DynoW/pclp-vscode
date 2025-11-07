@@ -105,9 +105,14 @@ pclp
 - `vscode-pdf` by tomoki1207
 - `EditorConfig for VS Code` by EditorConfig
 - `Better Comments` by Aaron Bond (optional)
-- `Excalidraw` by pomdtr (optional - whiteboard for making schemes of algorithms)
+- `Excalidraw` by pomdtr (optional - whiteboard for making schemes of algorithms, just create a file ending in .excalidraw)
+- `Material Icon Theme` by Philipp Kief (optional)
+(To enable it: `CTRL + SHIFT + P` -> Material Icons: Activate Icon Theme)
+
+You can read the description for each of them to learn more and  understand how to use
 
 ## Setup formatter:
+> This is already set up if you copied the settings.json
 
 In VS Code, open a .c file and press `CTRL+SHIFT+P` and type: Format Document With... > Configure Default Formatter... > C/C++
 

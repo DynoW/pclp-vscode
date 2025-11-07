@@ -10,11 +10,11 @@
         "editor.tabSize": 4,
         "editor.detectIndentation": false,
         "editor.formatOnSave": true,
-        "editor.defaultFormatter": "ms-vscode.cpptools"
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+        // "editor.renderWhitespace": "all", // Uncomment this line to visualize whitespace characters like tabs and spaces
     },
     // "debug.inlineValues": "on", // Uncomment this line to enable inline values in the debugger
     "debug.internalConsoleOptions": "neverOpen",
     "git.confirmSync": false,
     "git.autofetch": true,
-    
 }
