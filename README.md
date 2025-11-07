@@ -1,6 +1,6 @@
-# Daniel's minimal PCLP vscode configuration
+# Daniel's minimal PCLP VS Code configuration
 
-**I've created this repo for easy setup of a pclp environment in Visual Studio Code**
+**I've created this repo for easy setup of a PCLP environment in Visual Studio Code**
 
 > If you need help ask me or ChatGPT (same thing anyway :))
 
@@ -8,9 +8,9 @@ It includes things like:
 
 - *autosave* (so you don't cry if you close your computer)
 - *formatter* (so the checker doesn't cry that you didn't put the {} right)
-- *debugger configuration* - you must learn how to use the debugger for pclp btw because you can see the values of your variables and examine what's wrong with your code and spend less time bug hunting (search on youtube or annoy @alin1popa for more degugging demos)
+- *debugger configuration* - you must learn how to use the debugger for pclp btw because you can see the values of your variables and examine what's wrong with your code and spend less time bug hunting (search on youtube or annoy @alin1popa for more debugging demos)
 
-## Recomandation
+## Recommendation
 
 Check out the config files above ^^^ and ask or search things you don't understand. ChatGPT is your friend. Tweak them so you can feel confident in your evironment. Break things, explore, almost everything is reversible.
 
@@ -41,7 +41,7 @@ If you see different output, you probably have to do a $ `git pull`
 ```text
 pclp-vscode
 ├── README.md <- this file you are reading
-├── .clang-format <- the coding style that the pclp checker uses (Linux Kernel)
+├── .clang-format <- the coding style that the PCLP checker uses (Linux Kernel)
 ├── .editorconfig <- extra config for vscode
 └── .vscode
     ├── launch.json <- launch options for debugger
@@ -54,7 +54,7 @@ Feel free to change the config files and extensions as you like
 
 ## How to use these files:
 
-**Move them to your pclp directory where you have preferrably a labs and a homework direcory**
+**Move them to your pclp directory where you have preferably a labs and a homework directory**
 
 (you can skip the README.md)
 
@@ -81,23 +81,18 @@ pclp
 
 ## Extensions:
 - `C/C++ Extension Pack` by Microsoft (it installs C/C++, themes and CMake Tools)
-Makefile Tools by Microsoft
-
+- `Makefile Tools` by Microsoft
 - `Error Lens` by Alexander
-
 - `vscode-pdf` by tomoki1207
-
 - `EditorConfig` for VS Code by EditorConfig
-
 - `Better Comments` by Aaron Bond (optional)
-
 - `Excalidraw` by pomdtr (optional - whiteboard for making schemes of algorithms)
 
 ## Setup formatter:
 
-In VSCode, open a .c file and press `CTRL+SHIFT+P` and type Format Document With... > Configure Default Formatter... > C/C++
+In VS Code, open a .c file and press `CTRL+SHIFT+P` and type: Format Document With... > Configure Default Formatter... > C/C++
 
-Tthis should make it default formatter. Now you can use same combination and select Format Document (or just press `CTRL+S`)
+This should set it as the default formatter. Now you can use the same steps and select 'Format Document' (or just press CTRL+S).
 
 ## How to run code?
 Just press the triangle with the bug in the top right.
@@ -106,11 +101,11 @@ Just press the triangle with the bug in the top right.
 
 You will see the output of the program in the `Terminal` tab at the bottom.
 
-You can use breakpoints by clicking on the lines. You should see a red dot there. That is where your program will pause and let you inspect variables in the pannel on the right. (you can see in the example n = 10)
+You can use breakpoints by clicking on the lines. You should see a red dot there. That is where your program will pause and let you inspect variables in the panel on the right. (you can see in the example n = 10)
 
 ![screenshot-2](https://raw.githubusercontent.com/DynoW/images/refs/heads/main/pclp-vscode/screenshot-2.png)
 
-You the reason you don't see any output is because the yellow line wasn't executed yet. You can continue execution of the program utill next breakpoint with the first option in the floating window that appeared. Whit the last option (red square stops the program)
+The reason you don't see any output is because the yellow line hasn't executed yet. You can continue execution of the program untill next breakpoint with the first option in the floating window that appeared. With the last option (red square stops the program)
 
 ## Shortcuts I use daily:
 
@@ -122,7 +117,7 @@ You the reason you don't see any output is because the yellow line wasn't execut
 - `CTRL + SHIFT + P` - command palette
 - `CTRL + TAB` - change between tabs
 
-Less used but still userful sometimes:
+Less used but still useful sometimes:
 
 - `CTRL + B` - show/hide explorer
 - `CTRL + SHIFT + F` - show/hide search
