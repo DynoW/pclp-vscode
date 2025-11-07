@@ -6,9 +6,13 @@
 
 It includes things like:
 
-- *autosave*
+- *autosave* (so you don't cry if you close your computer)
 - *formatter* (so the checker doesn't cry that you didn't put the {} right)
 - *debugger configuration* - you must learn how to use the debugger for pclp btw because you can see the values of your variables and examine what's wrong with your code and spend less time bug hunting (search on youtube or annoy @alin1popa for more degugging demos)
+
+## Recomandation
+
+Check out the config files above ^^^ and ask or search things you don't understand. ChatGPT is your friend. Tweak them so you can feel confident in your evironment. Break things, explore, almost everything is reversible.
 
 ## How to clone this repository to your computer:
 
@@ -94,6 +98,37 @@ Makefile Tools by Microsoft
 In VSCode, open a .c file and press `CTRL+SHIFT+P` and type Format Document With... > Configure Default Formatter... > C/C++
 
 Tthis should make it default formatter. Now you can use same combination and select Format Document (or just press `CTRL+S`)
+
+## How to run code?
+Just press the triangle with the bug in the top right.
+
+![screenshot-1](https://raw.githubusercontent.com/DynoW/images/refs/heads/main/pclp-vscode/screenshot-1.png)
+
+You will see the output of the program in the `Terminal` tab at the bottom.
+
+You can use breakpoints by clicking on the lines. You should see a red dot there. That is where your program will pause and let you inspect variables in the pannel on the right. (you can see in the example n = 10)
+
+![screenshot-2](https://raw.githubusercontent.com/DynoW/images/refs/heads/main/pclp-vscode/screenshot-2.png)
+
+You the reason you don't see any output is because the yellow line wasn't executed yet. You can continue execution of the program utill next breakpoint with the first option in the floating window that appeared. Whit the last option (red square stops the program)
+
+## Shortcuts I use daily:
+
+- `CTRL + /` - comment in/out current line
+- `CTRL + S` - format file with the default formatter
+- `CTRL + [` and `CTRL + ]` - to change indentation of line or multiple lines
+- `CTRL + F` - find text in current file
+- `CTRL + P` - open a file
+- `CTRL + SHIFT + P` - command palette
+- `CTRL + TAB` - change between tabs
+
+still userful sometimes:
+
+- `CTRL + B` - show/hide explorer
+- `CTRL + SHIFT + F` - show/hide search
+- `CTRL +` `` ` `` - to show/hide terminal
+
+All shortcuts here: [vscode shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ### Links:
 
