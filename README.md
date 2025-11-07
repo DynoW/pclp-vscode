@@ -1,21 +1,21 @@
 # Daniel's minimal PCLP vscode configuration
 
-I've created this repo for easy setup of a pclp environment in Visual Studio Code
+**I've created this repo for easy setup of a pclp environment in Visual Studio Code**
 
-If you need help ask me or ChatGPT (same thing anyway :))
+> If you need help ask me or ChatGPT (same thing anyway :))
 
 It includes things like:
 
-- autosave
-- formatter (so the checker doesn't cry that you didn't put the {} right)
-- debugger configuration - you must learn how to use the debugger for pclp btw because you can see the values of your variables and examine what's wrong with your code and spend less time bug hunting (search on youtube or annoy @alin1popa for more degugging demos)
+- *autosave*
+- *formatter* (so the checker doesn't cry that you didn't put the {} right)
+- *debugger configuration* - you must learn how to use the debugger for pclp btw because you can see the values of your variables and examine what's wrong with your code and spend less time bug hunting (search on youtube or annoy @alin1popa for more degugging demos)
 
 ## How to clone this repository to your computer:
 
-If you haven't already, install git
+If you haven't already, install git:
 ```bash
-sudo apt update
-sudo apt install git -y
+dyno@ragnarok:~$ sudo apt update
+dyno@ragnarok:~$ sudo apt install git -y
 ```
 ```bash
 dyno@ragnarok:~$ git clone https://github.com/DynoW/pclp-vscode.git && cd ./pclp-vscode
@@ -50,7 +50,7 @@ Feel free to change the config files and extensions as you like
 
 ## How to use these files:
 
-> Move them to your pclp directory where you have preferrably a labs and a homework direcory
+**Move them to your pclp directory where you have preferrably a labs and a homework direcory**
 
 (you can skip the README.md)
 
