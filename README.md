@@ -35,7 +35,7 @@ dyno@ragnarok:~/pclp-vscode$ git pull
 
 ```bash
 pclp-vscode
-├── ABOUT.md <- this file you are reading
+├── README.md <- this file you are reading
 ├── .clang-format <- the coding style that the pclp checker uses (Linux Kernel)
 ├── .editorconfig <- extra config for vscode
 └── .vscode
@@ -51,10 +51,12 @@ Feel free to change the config files and extensions as you like
 
 ### Move them to your pclp repo where you have preferrably a labs and homework direcory like this:
 
+(you can skip the README.md)
+
 
 ```bash
 pclp
-├── ABOUT.md
+├── README.md
 ├── .clang-format
 ├── .editorconfig
 ├── labs
