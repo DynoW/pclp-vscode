@@ -89,6 +89,12 @@ Makefile Tools by Microsoft
 
 - `Excalidraw` by pomdtr (optional - whiteboard for making schemes of algorithms)
 
+## Setup formatter:
+
+In VSCode, open a .c file and press `CTRL+SHIFT+P` and type Format Document With... > Configure Default Formatter... > C/C++
+
+Tthis should make it default formatter. Now you can use same combination and select Format Document (or just press `CTRL+S`)
+
 ### Links:
 
 https://ocw.cs.pub.ro/courses/programare/coding-style
