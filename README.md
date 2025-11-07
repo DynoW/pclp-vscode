@@ -105,11 +105,15 @@ On Linux/macOS users (don't touch line endings, keep LF)
 
 
 ```bash
-dyno@ragnarok:~/pclp$ nano .gitattributes`
+dyno@ragnarok:~/pclp$ nano .gitattributes
 
+```
+```text
 # Set default behavior for text files
 * text=auto
-
+```
+(CTRL+X and Y to save)
+```bash
 dyno@ragnarok:~/pclp$ git add --renormalize .
 dyno@ragnarok:~/pclp$ git commit -m "Normalize line endings"
 
