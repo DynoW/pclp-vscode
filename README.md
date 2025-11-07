@@ -8,7 +8,7 @@ It includes things like:
 
 - *autosave* (so you don't cry if you close your computer)
 - *formatter* (so the checker doesn't cry that you didn't put the {} right)
-- *debugger configuration* - you must learn how to use the debugger for pclp btw because you can see the values of your variables and examine what's wrong with your code and spend less time bug hunting (search on youtube or annoy @alin1popa for more debugging demos)
+- *debugger configuration* - you must learn how to use the debugger for pclp btw because you can see the values of your variables and examine what's wrong with your code and spend less time bug hunting (search on youtube or annoy [@alin1popa](https://github.com/alin1popa) for more debugging demos)
 
 ## Recommendation
 
