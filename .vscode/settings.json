@@ -13,6 +13,7 @@
         "editor.defaultFormatter": "ms-vscode.cpptools"
     },
     "debug.inlineValues": "on",
+    "debug.internalConsoleOptions": "neverOpen",
     "git.confirmSync": false,
     "git.autofetch": true,
     
