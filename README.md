@@ -140,7 +140,7 @@ Less used but still useful sometimes:
 
 - `CTRL + B` - show/hide explorer
 - `CTRL + SHIFT + F` - show/hide search
-- `CTRL +` `` ` `` - to show/hide terminal
+- `CTRL +` `` ` `` - show/hide terminal
 
 All shortcuts here: [vscode shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
