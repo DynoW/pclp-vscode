@@ -24,12 +24,13 @@ dyno@ragnarok:~$ git clone https://github.com/DynoW/pclp-vscode.git && cd ./pclp
 ## How to check for updates:
 ```bash
 dyno@ragnarok:~/pclp-vscode$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
 
-
-// if you see different output, you probably have to:
-dyno@ragnarok:~/pclp-vscode$ git pull
-
+nothing to commit, working tree clean
 ```
+If you see different output, you probably have to do a $ `git pull`
+
 
 ## Structure:
 
