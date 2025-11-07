@@ -103,7 +103,7 @@ pclp
 - `Makefile Tools` by Microsoft
 - `Error Lens` by Alexander
 - `vscode-pdf` by tomoki1207
-- `EditorConfig` for VS Code by EditorConfig
+- `EditorConfig for VS Code` by EditorConfig
 - `Better Comments` by Aaron Bond (optional)
 - `Excalidraw` by pomdtr (optional - whiteboard for making schemes of algorithms)
 
