@@ -50,7 +50,7 @@ Feel free to change the config files and extensions as you like
 
 ## How to use these files:
 
-> Move them to your pclp repo where you have preferrably a labs and homework direcory
+> Move them to your pclp directory where you have preferrably a labs and a homework direcory
 
 (you can skip the README.md)
 
