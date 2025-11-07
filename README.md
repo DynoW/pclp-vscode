@@ -146,9 +146,11 @@ All shortcuts here: [vscode shortcuts](https://code.visualstudio.com/shortcuts/k
 
 ### Links:
 
-https://ocw.cs.pub.ro/courses/programare/coding-style
+https://github.com/andre1ut/AjutorTemePCLP (some helpful tips for pclp homework checker)
 
-https://github.com/torvalds/linux/blob/master/.clang-format (here are the linux kernel format rules)
+https://ocw.cs.pub.ro/courses/programare/coding-style (the rules for the pclp coding style)
+
+https://github.com/torvalds/linux/blob/master/.clang-format (here is the official linux kernel format config)
 
 #### Extra for advanced users that use git windows & linux: (ignore if you don't develop on windows)
 
