@@ -126,6 +126,8 @@ You can use breakpoints by clicking on the lines. You should see a red dot there
 
 The reason you don't see any output is because the yellow line hasn't executed yet. You can continue execution of the program untill next breakpoint with the first option in the floating window that appeared. With the last option (red square stops the program)
 
+> P.S. *I've disabled the yellow n=11 next to the code because it's sometimes confusing when it just shows the same value, even at declaration of n. (Behind the scenes the debuger just shows that memmory address of n, which is the same in all 3 places in the screenshot) For ease of undersanding just use the right pannel, it's more intuitive* check the [comment](https://github.com/DynoW/pclp-vscode/blob/main/.vscode/settings.json#L15) to enable it again
+
 ## Shortcuts I use daily:
 
 - `CTRL + /` - comment in/out current line

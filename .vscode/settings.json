@@ -12,7 +12,7 @@
         "editor.formatOnSave": true,
         "editor.defaultFormatter": "ms-vscode.cpptools"
     },
-    "debug.inlineValues": "on",
+    // "debug.inlineValues": "on", // Uncomment this line to enable inline values in the debugger
     "debug.internalConsoleOptions": "neverOpen",
     "git.confirmSync": false,
     "git.autofetch": true,
