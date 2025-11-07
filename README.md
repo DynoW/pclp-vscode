@@ -122,7 +122,7 @@ You the reason you don't see any output is because the yellow line wasn't execut
 - `CTRL + SHIFT + P` - command palette
 - `CTRL + TAB` - change between tabs
 
-still userful sometimes:
+Less used but still userful sometimes:
 
 - `CTRL + B` - show/hide explorer
 - `CTRL + SHIFT + F` - show/hide search
