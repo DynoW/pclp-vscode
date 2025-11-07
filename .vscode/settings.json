@@ -1,0 +1,19 @@
+{
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "README": "plaintext",
+        "stdio.h": "c"
+    },
+    "[c]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4,
+        "editor.detectIndentation": false,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "debug.inlineValues": "on",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    
+}
