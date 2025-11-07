@@ -1,6 +1,6 @@
 # Daniel's minimal PCLP vscode configuration
 
-I've created this repo for easy setup of a pclp environmentin Visual Studio Code
+I've created this repo for easy setup of a pclp environment in Visual Studio Code
 
 If you need help ask me or ChatGPT (same thing anyway :))
 
