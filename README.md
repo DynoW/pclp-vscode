@@ -122,7 +122,7 @@ You will see the output of the program in the `Terminal` tab at the bottom.
 
 You can use breakpoints by clicking on the lines. You should see a red dot there. That is where your program will pause and let you inspect variables in the panel on the right. (you can see in the example n = 10)
 
-![screenshot-2](https://raw.githubusercontent.com/DynoW/images/refs/heads/main/pclp-vscode/screenshot-2.png)
+![screenshot-2](https://raw.githubusercontent.com/DynoW/images/refs/heads/main/pclp-vscode/screenshot-2v2.png)
 
 The reason you don't see any output is because the yellow line hasn't executed yet. You can continue execution of the program untill next breakpoint with the first option in the floating window that appeared. With the last option (red square stops the program)
 
