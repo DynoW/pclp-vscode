@@ -66,18 +66,37 @@ pclp
 ├── .editorconfig
 ├── labs
 │   ├── lab1
+│   │   ├── main <-- the executable of my program
+│   │   └── main.c <-- the source code of my program
 │   ├── lab2
 │   ├── lab3
 │   ├── lab4
 │   └── lab5
 ├── teme
 │   ├── tema0
+│   │   ├── check <-- the checker
+│   │   ├── check_chocolate_rain-2025.10.20.zip <-- the homework archive
+│   │   ├── check_utils
+│   │   ├── cs
+│   │   ├── fizzbuzz <-- the executable of my program
+│   │   ├── fizzbuzz.c <-- the source code of my program
+│   │   ├── install <-- install script for the checker
+│   │   ├── Makefile <-- copy of Makefile.example3
+│   │   ├── Makefile.example1
+│   │   ├── Makefile.example2
+│   │   ├── Makefile.example3
+│   │   ├── PCLP 2025 - Tema 0 - 2025.10.20.pdf <-- tasks pdf
+│   │   ├── README <-- the explanation of my program
+│   │   ├── README-checker.md
+│   │   └── tasks <-- the directory in which verification tests are located
 │   └── tema1
 └── .vscode
     ├── launch.json
     ├── settings.json
     └── tasks.json
 ```
+
+
 
 ## Extensions:
 - `C/C++ Extension Pack` by Microsoft (it installs C/C++, themes and CMake Tools)
@@ -92,7 +111,7 @@ pclp
 
 In VS Code, open a .c file and press `CTRL+SHIFT+P` and type: Format Document With... > Configure Default Formatter... > C/C++
 
-This should set it as the default formatter. Now you can use the same steps and select 'Format Document' (or just press CTRL+S).
+This should set it as the default formatter. Now you can use the same steps and select 'Format Document' (or just press `CTRL+S`).
 
 ## How to run code?
 Just press the triangle with the bug in the top right.
